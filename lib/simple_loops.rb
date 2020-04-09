@@ -1,6 +1,6 @@
 # Write your methods here
-size = 0
-string = message
-while size < 5
-  puts string
-end
+
+def loop_message_five_times (message)
+  while 0 < 5
+    puts message 
+  end 
