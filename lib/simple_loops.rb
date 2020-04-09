@@ -7,4 +7,12 @@ counter = 5
     puts string
     times += 1
   end
-end 
+end
+
+
+def loop_message_n_times(string,n)
+counter = 0
+  while counter < n do
+    puts message
+    counter += 1
+  end
