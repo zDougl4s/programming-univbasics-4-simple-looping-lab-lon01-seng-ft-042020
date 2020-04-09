@@ -24,4 +24,4 @@ def output_array(array)
     put array[counter]
     counter += 1
   end
-end 
+end
