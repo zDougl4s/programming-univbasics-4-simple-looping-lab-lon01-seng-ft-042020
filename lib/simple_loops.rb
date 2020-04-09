@@ -4,4 +4,3 @@ size = 0
 while size < 5
   puts string
 end 
-  
