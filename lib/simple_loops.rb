@@ -17,3 +17,11 @@ counter = 0
     counter += 1
   end
 end
+
+def output_array(array)
+  counter = 0
+  while counter < array.lenght do
+    put array[counter]
+    counter += 1
+  end
+end 
