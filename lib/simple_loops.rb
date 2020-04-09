@@ -34,4 +34,4 @@ while counter < array.length do
    counter += 1
  end
  new_array
-ebd
+end
