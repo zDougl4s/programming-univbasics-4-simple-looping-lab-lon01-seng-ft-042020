@@ -16,3 +16,4 @@ counter = 0
     puts message
     counter += 1
   end
+end
